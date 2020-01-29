@@ -1,0 +1,31 @@
+<style>
+h1{
+    color: rgb(0,255, 0);
+}
+h2{
+    color: rgb(100, 0, 100);
+    background-color: whitesmoke;
+    width: 300px;
+}
+h3{
+    color: rgb(11, 99, 150);
+}
+h4{
+    color: rgba(68, 13, 68, 0.6);
+}
+h5{
+    color: rgba(11, 99, 150, 0.5);
+}
+body{
+
+    background-color: rgba(150, 150, 150, 1);
+}
+div{
+    background-color: rgb(111, 111, 224);
+    margin: 2%;
+    padding: 5px;
+    width: 30%;
+    border-radius: 30px;
+    box-shadow: 10px 10px grey;
+}
+</style>
